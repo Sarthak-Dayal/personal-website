@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sarthak&#39;s website on sarthak dayal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in sarthak&#39;s website on sarthak dayal</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Sarthak Dayal.</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>interests</title>
+      <link>http://localhost:1313/interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interests/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;robots:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://core-robotics-lab.github.io/Wheelchair-Tennis-Robot/&#34;&gt;E.S.T.H.E.R&lt;/a&gt;: an exciting wheelchair tennis robot with tremendous capabilities in both perception and action&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.paradigmrobotics.tech/firebot&#34;&gt;Firebot&lt;/a&gt;: the first robot i worked with at UT that has capabilities to allow it to provide useful information for firefighters during fires&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://enchanted.tools/robot/&#34;&gt;The Mirokaï&lt;/a&gt;: an emotive robot that can maneuver in tight spaces that i interacted with at &lt;a href=&#34;https://www.sxsw.com/&#34;&gt;SXSW 2023&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.intuitive.com/en-us/products-and-services/da-vinci&#34;&gt;Intuitive DaVinci&lt;/a&gt;: a precise surgical robot family whose capabilities to make medicine safer excite me&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;iframe src=&#34;https://drive.google.com/file/d/1GIVsdxlT0wTQ3YoCkuEcn0aXV6UUyzI5/preview&#34; width=&#34;100%&#34; height=&#34;800&#34; frameborder=8 allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>
